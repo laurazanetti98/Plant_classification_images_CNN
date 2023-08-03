@@ -1,10 +1,10 @@
 # Image Plant Classification with CNN
 Given a dataset of 1350 plant disease photos divided in 5 classes (270 images each):
-colpo_di_fuoco / fire_blight
-flavescenza / flavescence
-maculatura_bruna / brown spot
-peronospora / downy mildew
-ticchiolatura / scab
+* colpo_di_fuoco / fire_blight
+* flavescenza / flavescence
+* maculatura_bruna / brown spot
+* peronospora / downy mildew
+* ticchiolatura / scab
 the aim of this project is to train the data (with different state of the art architectures and methods) and test the best models in order to be able to classify correctly the plant diseases.
 
 The dataset used, was created mixing google images with photos taken on the field by agricultural technicians working in the italian plain of Pianura Padana.
