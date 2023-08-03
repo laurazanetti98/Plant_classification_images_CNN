@@ -10,8 +10,8 @@ the aim of this project is to train the data (with different state of the art ar
 
 The dataset used, was created mixing google images with photos taken on the field by agricultural technicians working in the italian plain of Pianura Padana.
 
-The main work is available in the jupyter file: **image_plant_classification_Zanetti.ipynb**
-The work is divided in 5 parts:
+The main work is available in the jupyter file: **image_plant_classification_Zanetti.ipynb**.
+It is divided in 5 parts:
 * Creating the Dataset and assigning the labels
 * Deep model Preprocessing
 * Building the network (LeNet implementation) and testing it
